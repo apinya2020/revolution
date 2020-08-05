@@ -5,5 +5,6 @@ Generation
 4.Baby Generation(Gent-x)
 5.Millennials Generation(Gen-y)
 6.Generatin -z
+7.Generation Alpha
 
 List of named generations
